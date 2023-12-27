@@ -7,7 +7,7 @@
 #
 Name     : pypi-parse
 Version  : 1.20.0
-Release  : 16
+Release  : 17
 URL      : https://files.pythonhosted.org/packages/c4/69/5d4f4e827bdff9682327cdd696abadf55d311ab94724282e99a34a736d51/parse-1.20.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/c4/69/5d4f4e827bdff9682327cdd696abadf55d311ab94724282e99a34a736d51/parse-1.20.0.tar.gz
 Summary  : parse() is the opposite of format()
