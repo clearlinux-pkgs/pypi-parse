@@ -1,5 +1,5 @@
 PKG_NAME := pypi-parse
-URL = https://files.pythonhosted.org/packages/c4/69/5d4f4e827bdff9682327cdd696abadf55d311ab94724282e99a34a736d51/parse-1.20.0.tar.gz
+URL = https://files.pythonhosted.org/packages/22/08/63ad287eaded9f6bbaabb08f82da03c0eb106eb1fa0aac29663a32ea3c6a/parse-1.20.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
